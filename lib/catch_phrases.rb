@@ -18,6 +18,6 @@ end
 
 def all_phrases
 puts mario
-puts 
+puts toadstool
 puts
 end
