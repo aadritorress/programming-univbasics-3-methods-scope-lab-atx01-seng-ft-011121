@@ -16,6 +16,8 @@ def link
   puts phrase
 end
 
-def 
+def all_phrases
 puts mario
 puts 
+puts
+end
